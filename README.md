@@ -6,6 +6,12 @@
     </a>
 </p>
 
+<p align="center">
+  Banner by <a href="https://github.com/maximousblk/">maximousblk</a>
+</p>
+
+<br>
+
 ### About Me
 
 Hi! My name is **Tiago Moreira**. I am a **Management Graduate** from [Universidade do Minho](https://www.uminho.pt/PT) and I am planning on getting a **Master's Degree in Finance**. 
