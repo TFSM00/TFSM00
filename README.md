@@ -15,11 +15,13 @@ In my spare time, I love learning about new technologies. Besides programming, I
 - [Etch-a-Sketch](https://tfsm00.github.io/Etch-a-Sketch/)
 
 <br>
-<br>
 
+---
 
 <img align="left" height="200" width="47%" src="https://github-readme-stats.vercel.app/api?username=tfsm00&theme=algolia" />
 <img height="200" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfsm00&layout=compact" />
+
+---
 
 ### Programming Languages / Technologies I'm familiar with:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
