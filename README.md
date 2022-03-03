@@ -3,13 +3,19 @@
 
 ### About Me
 
-Hi! My name is Tiago Moreira. I am a Management Graduate from [Universidade do Minho](https://www.uminho.pt/PT) and I plan on getting a Master's Degree in Finance. 
-I'm a beginner self-taught programmer who loves finance and I try to become better at both every project I make.
+Hi! My name is **Tiago Moreira**. I am a **Management Graduate** from [Universidade do Minho](https://www.uminho.pt/PT) and I am planning on getting a **Master's Degree in Finance**. 
+
+I'm a **beginner self-taught programmer** who loves **finance** and I try to become better at both every project I make.
+
 In my spare time, I love learning about new technologies. Besides programming, I enjoy video games and motorsports.
 
-Here are some of my projects:
+### Here are some of my projects:
 - [Efficient Frontier Calculator Web App](https://share.streamlit.io/tfsm00/markowitz-efficient-frontier/main/efficient-frontier.py)
+- [Visualization of the Black-Scholes-Merton Option Pricing Model](https://share.streamlit.io/tfsm00/black-scholes-merton-model/main/BSM_streamlit.py)
+- [Etch-a-Sketch](https://tfsm00.github.io/Etch-a-Sketch/)
 
+<br>
+<br>
 
 
 <img align="left" height="200" width="47%" src="https://github-readme-stats.vercel.app/api?username=tfsm00&theme=algolia" />
