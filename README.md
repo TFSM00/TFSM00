@@ -21,7 +21,7 @@ I'm a **beginner self-taught programmer** who loves **finance** and I try to bec
 In my spare time, I love learning about new technologies. Besides programming, I enjoy video games and motorsports.
 
 ### Here are some of my projects:
-- [Efficient Frontier Calculator Web App](https://tfsm00-markowitz-efficient-frontier-efficient-frontier-foagx5.streamlitapp.com/)
+- [Efficient Frontier Calculator Web App - Deprecated](https://tfsm00-markowitz-efficient-frontier-efficient-frontier-foagx5.streamlitapp.com/)
 - [Black-Scholes Option Pricing Model Calculator Web App](https://tfsm00-black-scholes-calculator-bsm-streamlit-rm6hsi.streamlitapp.com/)
 - [Etch-a-Sketch](https://tfsm00.github.io/Etch-a-Sketch/)
 
