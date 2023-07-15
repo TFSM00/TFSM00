@@ -1,17 +1,5 @@
 ## Hi there, I'm Tiago!
 
-<p align="center">
-  <a href="https://gist.github.com/57dc8bfa83121797ac9b5372b3c874d5">
-      <img src="https://camo.githubusercontent.com/2dd347fd2189ac2a33c8cdb8cba140d4a29e3eea648ad40df645f6af2cf4ebd3/68747470733a2f2f676973742e6769746875622e636f6d2f7261772f35376463386266613833313231373937616339623533373262336338373464352f62616e6e65722e737667" width="800" data-canonical-src="https://gist.github.com/raw/57dc8bfa83121797ac9b5372b3c874d5/banner.svg" style="max-width: 100%;">
-    </a>
-</p>
-
-<p align="center">
-  Banner by <a href="https://github.com/maximousblk/">maximousblk</a>
-</p>
-
-<br>
-
 ### About Me
 
 Hi! My name is **Tiago Moreira**. I am a **Management Graduate** from [Universidade do Minho](https://www.uminho.pt/PT) and I am currently getting a **Master's Degree in Finance**. 
