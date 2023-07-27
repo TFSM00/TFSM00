@@ -13,6 +13,7 @@ In my spare time, I love learning about new technologies. Besides programming, I
 - [Black-Scholes Option Pricing Model Calculator Web App](https://tfsm00-black-scholes-calculator-bsm-streamlit-rm6hsi.streamlit.app/)
 - [Etch-a-Sketch](https://tfsm00.github.io/Etch-a-Sketch/)
 - [US-GB Arbitrage Finder](https://github.com/TFSM00/US-GB-Arbitrage-Finder)
+- [PyRubiks](https://github.com/TFSM00/PyRubiks)
 
 <br>
 
