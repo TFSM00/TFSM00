@@ -12,6 +12,7 @@ In my spare time, I love learning about new technologies. Besides programming, I
 - [Efficient Frontier Calculator Web App](https://tfsm00-markowitz-efficient-frontier-efficient-frontier-foagx5.streamlit.app/https://tfsm00-markowitz-efficient-frontier-efficient-frontier-foagx5.streamlit.app/)
 - [Black-Scholes Option Pricing Model Calculator Web App](https://tfsm00-black-scholes-calculator-bsm-streamlit-rm6hsi.streamlit.app/)
 - [Etch-a-Sketch](https://tfsm00.github.io/Etch-a-Sketch/)
+- [US-GB Arbitrage Finder](https://github.com/TFSM00/US-GB-Arbitrage-Finder)
 
 <br>
 
