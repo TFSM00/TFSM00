@@ -8,15 +8,10 @@ I'm a **beginner self-taught programmer** who loves **finance** and I try to bec
 
 In my spare time, I love learning about new technologies. Besides programming, I enjoy video games and motorsports.
 
-<ul>
-<li><a href="http://tfsm00.ddns.net/microtasker/" target="_blank" ><span>Check out my portfolio website here!</span></a></li>
-</ul>
-
 ### Here are some of my projects:
 <ul>
   <li><a href="https://tfsm00-markowitz-efficient-frontier-efficient-frontier-foagx5.streamlit.app/" target="_blank" r><span>Efficient Frontier Calculator Web App</span></a></li>
   <li><a href="https://tfsm00-black-scholes-calculator-bsm-streamlit-rm6hsi.streamlit.app/" target="_blank" ><span>Black-Scholes Option Pricing Model Calculator Web App</span></a></li>
-  <li><a href="http://tfsm00.ddns.net/microtasker/" target="_blank" ><span>Microtasker Web App</span></a></li>
   <li><a href="https://tfsm00.github.io/Etch-a-Sketch/" target="_blank" ><span>Etch-a-Sketch</span></a></li>
   <li><a href="https://github.com/TFSM00/US-GB-Arbitrage-Finder" target="_blank" ><span>US-GB Arbitrage Finder</span></a></li>
   <li><a href="https://github.com/TFSM00/PyRubiks" target="_blank" ><span>PyRubiks</span></a></li>
