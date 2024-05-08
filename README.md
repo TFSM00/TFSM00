@@ -2,11 +2,10 @@
 
 ### About Me
 
-Hi! My name is **Tiago Moreira**. I am a **Management Graduate** from [Universidade do Minho](https://www.uminho.pt/PT) and I am currently getting a **Master's Degree in Finance**. 
+Hi! My name is **Tiago Moreira**. I am a **Management Graduate** from **Universidade do Minho** and I am currently getting a **Master's Degree in Finance**. 
 
 I'm a **beginner self-taught programmer** who loves **finance** and I try to become better at both every project I make.
 
-In my spare time, I love learning about new technologies. Besides programming, I enjoy video games and motorsports.
 
 ### Here are some of my projects:
 <ul>
@@ -14,7 +13,6 @@ In my spare time, I love learning about new technologies. Besides programming, I
   <li><a href="https://tfsm00-black-scholes-calculator-bsm-streamlit-rm6hsi.streamlit.app/" target="_blank" ><span>Black-Scholes Option Pricing Model Calculator Web App</span></a></li>
   <li><a href="https://tfsm00.github.io/Etch-a-Sketch/" target="_blank" ><span>Etch-a-Sketch</span></a></li>
   <li><a href="https://github.com/TFSM00/US-GB-Arbitrage-Finder" target="_blank" ><span>US-GB Arbitrage Finder</span></a></li>
-  <li><a href="https://github.com/TFSM00/PyRubiks" target="_blank" ><span>PyRubiks</span></a></li>
 </ul>
 <br>
 
