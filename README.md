@@ -1,12 +1,5 @@
 ## Hi there, I'm Tiago!
 
-### About Me
-
-Hi! My name is **Tiago Moreira**. I am a **Management Graduate** from **Universidade do Minho** and I am currently getting a **Master's Degree in Finance**. 
-
-I'm a **beginner self-taught programmer** who loves **finance** and I try to become better at both every project I make.
-
-
 ### Here are some of my projects:
 <ul>
   <li><a href="https://tfsm00-markowitz-efficient-frontier-efficient-frontier-foagx5.streamlit.app/" target="_blank" r><span>Efficient Frontier Calculator Web App</span></a></li>
@@ -27,7 +20,6 @@ I'm a **beginner self-taught programmer** who loves **finance** and I try to bec
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,13 +27,4 @@ I'm a **beginner self-taught programmer** who loves **finance** and I try to bec
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Programming Languages / Technologies I'm trying to learn:
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
