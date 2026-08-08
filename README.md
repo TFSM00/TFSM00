@@ -1,6 +1,6 @@
 ## Hi there, I'm Tiago!
 
-I'm a financial risk analyst and a "software developer".
+I'm a financial risk analyst and a software developer.
 I am self-taught in programming and I like building stuff from scratch.
 
 ### Here are some of my projects:
